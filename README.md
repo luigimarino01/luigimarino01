@@ -21,7 +21,7 @@ Experiments, code, and ideas covering:
 
 ## 📫 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/luigimarino01/)
+- [LinkedIn](https://www.linkedin.com/in/luigi-marino-59023a1b2/)
 ---
 
 > “Never stop exploring. Every experiment is a new adventure.”
