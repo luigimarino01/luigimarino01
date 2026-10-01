@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Luigi Marino!
 
 Welcome to my GitHub!  
-I hold a Bachelor’s degree in Computer Science and am currently one exam away from earning my Master’s in Machine Learning and Big Data. I’m passionate about programming, microcontrollers, 3D printing, and exploring the world of data and machine learning.
+I hold a Master degree in Machine Learning and Big Data. 
+I’m passionate about programming, microcontrollers, 3D printing, and exploring the world of data and machine learning.
 
 ## 🚀 About Me
 
-- 🎓 Bachelor in Computer Science; almost a Master in Machine Learning & Big Data
+- 🎓 Master in Machine Learning & Big Data
+- 🎓 Bachelor in Computer Science
 - 🖥️ Programming lover—whether it’s software, hardware, or something in between
 - 🤖 Microcontroller enthusiast (Arduino, Raspberry Pi, ESP32, …)
 - 🛠️ Enjoying 3D printing and hardware tinkering
